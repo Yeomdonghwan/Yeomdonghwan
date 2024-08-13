@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=YEOM)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeomdonghwan)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeomdonghwan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeomdonghwan)](https://github.com/anuraghazra/github-readme-stats)
