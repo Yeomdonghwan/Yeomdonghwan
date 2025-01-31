@@ -1,6 +1,13 @@
 <!--
 **Yeomdonghwan/Yeomdonghwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeomdonghwan)](https://github.com/anuraghazra/github-readme-stats)
+### 프로젝트
+- 블록체인 기반 웨딩 펀딩 서비스
+- AI 기반 ATM 보안 및 사용성 개선 
+- 푸드트럭 창업 상권분석 서비스
+- 식사 친구 매칭 서비스
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -17,10 +24,13 @@ Here are some ideas to get you started:
 
 ### 활동
 ---
+- 삼성 청년 SW 아카데미 13기 (2025)
 - 제2회 대한민국 디지털 인재 양성 프로젝트, IT's DGB IM Challenger 최우수상(2024)
-- 영남대 SW중심대학사업단, 제2회 오픈소스 SW개발 경진대회 우수상(2024)
-- 영남대 SW중심대학사업단, 오픈소스 SW개발 경진대회 최우수상(2023)
+- 메가존클라우드 디지털 인재 양성과정 2기 수료 (2024)
+- 영남대 SW중심대학사업단, 제3회 오픈소스 SW개발 경진대회 대상(2024)
 - 멋쟁이사자처럼 11기(2023)
+
+
 
 
 ### 기술 스택
@@ -36,5 +46,3 @@ Here are some ideas to get you started:
 ---
 - 이메일: 21912205@yu.ac.kr
 - GitHub: https://github.com/Yeomdonghwan
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeomdonghwan)](https://github.com/anuraghazra/github-readme-stats)
