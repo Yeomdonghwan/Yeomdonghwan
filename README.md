@@ -2,6 +2,8 @@
 **Yeomdonghwan/Yeomdonghwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=YEOM)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeomdonghwan)](https://github.com/anuraghazra/github-readme-stats)
 ### 프로젝트
 - 블록체인 기반 웨딩 펀딩 서비스
@@ -19,8 +21,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=YEOM)
 
 ### 활동
 ---
